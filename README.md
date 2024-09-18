@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!!!+I'm+Doyel+Das+😸+💗" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!!!+I'm+Doyel+Das+😸" alt="Typing SVG" /></a></h1>
 
 <h3 align="center">I'm a third-year BSc Computer Science student with a passion for technology and creativity ♡ </h3>
 
